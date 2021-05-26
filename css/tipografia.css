@@ -1,7 +1,13 @@
 /* TIPOGRAFÍA */
+
+
 /* ********* */
 
+
 /* Variables */
-:root{
-    
+
+ :root {
+    font-size: 16px;
+    font-family: sans-serif;
+    color: white;
 }

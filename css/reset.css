@@ -1,14 +1,54 @@
-/* RESET */
-/* **** */
-
-*{
-    box-sizing: border-box;
-}
-
-a{
-    text-decoration: none;
-}
-
-ul{
-    list-style-type: none;
-}
+        /* RESET */
+        /* **** */
+        
+        * {
+            margin: 0;
+        }
+        
+        body {
+            height: 150vh;
+            width: 94vw;
+            display: flex;
+            flex-direction: column;
+            row-gap: 10px;
+            margin: 10px auto;
+            border: 2px black solid;
+            padding: 7px
+        }
+        
+        body p {
+            padding: 10px;
+        }
+        
+        header {
+            height: 16vh;
+            width: 94vw;
+            margin: 10px auto;
+        }
+        
+        main {
+            display: flex;
+            column-gap: 10px;
+        }
+        
+        section {
+            height: 32vh;
+            width: 94vw;
+            margin: 10px auto;
+        }
+        
+        article {
+            height: 88vh;
+            width: 47vw;
+        }
+        
+        aside {
+            height: 88vh;
+            width: 47vw;
+        }
+        
+        footer {
+            height: 8vh;
+            width: 94vw;
+            margin: 10px auto;
+        }

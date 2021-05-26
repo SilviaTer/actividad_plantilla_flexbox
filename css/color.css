@@ -1,7 +1,32 @@
 /* COLOR */
+
+.container {
+    color: white;
+    background-color: white
+}
+
+.header {
+    background-color: rgb(11, 168, 241)
+}
+
+.hero {
+    background-color: red
+}
+
+.content {
+    background-color: rgb(1, 163, 1)
+}
+
+.sidebar {
+    background-color: rgb(94, 36, 160)
+}
+
+.footer {
+    background-color: grey
+}
+
+
 /* **** */
 
-/* Variables */
-:root{
 
-}
+/* Variables */
